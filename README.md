@@ -1,18 +1,15 @@
 # Arrays_and_Strings
 Experiment 7
 
-
 ## AIM
 To study use of and to implement arrays and strings in C++.
 
-## Software Used 
-VS Code
+
 
 ## Theory
 
 ### Arrays in C++
 An array is a data structure of elements with same data type stored at contiguous memory locations. 
-![image](https://github.com/user-attachments/assets/22f534ee-3dbc-4249-b0e6-a2d5f40e1371)
 
 
 **Features :**
